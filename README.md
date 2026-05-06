@@ -1,14 +1,14 @@
 ## Hi there, I'm Hiba
 
-<div align="center">
-
-  <a href="https://leetcode.com/u/hibaibrahim121/">
-    <img src="https://raw.githubusercontent.com/Hiba-verification/Hiba-verification/main/LeetCode_3D.png" width="100" height="100" alt="LeetCode Hiba" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- spaces -->
+<div align="left">
   
-  <a href="https://codeforces.com/profile/hibaibraheem140">
-    <img src="https://raw.githubusercontent.com/Hiba-verification/Hiba-verification/main/Codeforces_3D.png" width="100" height="100" alt="Codeforces Hiba" />
-  </a>
-
+  <p align="center">
+    <a href="https://leetcode.com/u/hibaibrahim121/">
+      <img src="https://img.icons8.com/color/144/000000/leetcode.png" width="80" alt="LeetCode" />
+    </a>
+    <a href="https://codeforces.com/profile/hibaibraheem140">
+      <img src="https://img.icons8.com/color/144/000000/codeforces.png" width="80" alt="Codeforces" />
+    </a>
+  </p>
+  
 </div>
