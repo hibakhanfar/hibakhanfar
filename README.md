@@ -3,10 +3,9 @@
 <div align="left">
 </div>
 <a href="https://leetcode.com/u/hibaibrahim121/">
-<a href="https://leetcode.com/u/hibaibrahim121/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32"/></a>
-<a href="https://codeforces.com/profile/hibaibraheem140"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32"/></a>
+<img src="https://img.shields.io/badge/LeetCode-black?style=flat&logo=leetcode&logoColor=orange" />
 </a>
 
 <a href="https://codeforces.com/profile/hibaibraheem140">
-<a href="https://codeforces.com/profile/hibaibraheem140"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32"/></a>
+<img src="https://img.shields.io/badge/Codeforces-black?style=flat&logo=codeforces&logoColor=blue" />
 </a>
